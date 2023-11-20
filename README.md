@@ -18,7 +18,7 @@ sudo git clone https://github.com/Youssef9005/Kasber-Website.git
 Windows:
 
 ```bash
-git clone https://github.com/Youssef9005/Elzero-Website.git](https://github.com/Youssef9005/Kasber-Website.git
+git clone https://github.com/Youssef9005/Kasber-Website.git
 ```
 
 <div align="center">
